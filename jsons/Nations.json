@@ -1,7 +1,7 @@
 [
 	{
 		"finland",
-		"outerColor": [255,255,255]
+		"outerColor": [237,28,36]
 //		"innerColor": [247,147,29]
 	},
 	{
@@ -21,7 +21,7 @@
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
-		"uniqueName": "Tireless Watch",
+		"uniqueName": "more ",
 		"uniques": [],
 		"cities": ["uHelsinki""lappi""ouluo""VAASA""HAME"]
 	}
