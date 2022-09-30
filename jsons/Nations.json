@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Spectator",
+		"finland",
 		"outerColor": [255,255,255]
-//		"innerColor": [255,255,255]
+//		"innerColor": [247,147,29]
 	},
 	{
-		"name": "Eruch",
-		"leaderName": "Cyrus Rotheram",
+		"name": "finland",
+		"leaderName": "Baron Carl Gustaf Emil Mannerheim",
 		"adjective": ["Eruch"],
 		"preferredVictoryType": "Domination",
 		
@@ -23,5 +23,5 @@
 		"innerColor": [255,120,0],
 		"uniqueName": "Tireless Watch",
 		"uniques": [],
-		"cities": ["uHelsinki""lappi""ouluo""VAASA""HAME"
+		"cities": ["uHelsinki""lappi""ouluo""VAASA""HAME"]
 	}
