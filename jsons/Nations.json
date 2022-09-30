@@ -16,12 +16,12 @@
 		"attacked": "Corrupted villain! We will bring you into the ground!",
 		"defeated": "Eruch has been destroyed. I weep for the future generations.",
 		"introduction": "Guten tag. In the name of the great Eruch people, I bid you welcome.",
-		"neutralHello": "What now?",
-		"hateHello": "So, out with it!",
+		"neutralHello": "What ?",
+		"hateHello": "boring",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
-		"uniqueName": "more ",
+		"uniqueName": "more very fun ",
 		"uniques": [],
 		"cities": ["uHelsinki""lappi""ouluo""VAASA""HAME"]
 	}
